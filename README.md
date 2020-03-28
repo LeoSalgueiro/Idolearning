@@ -8,7 +8,7 @@ Pasos a seguir:
    Esto devolverá un token el cual debera copiar, para utiliazrlo en el siguiente paso.
    
 2- A traves de una herramienta como Postman, enviar una peticion GET a la direccion http://127.0.0.1:3000/verify 
-   con los parametros access_token (aca deerá ingrear el token copiado anteriormente)
+   con los parametros access_token (aca deberá ingrear el token copiado anteriormente)
    
  Tipo de respuestas:
    
